@@ -7,7 +7,7 @@
  * Author URI:      https://profiles.wordpress.org/josefnamin/
  * Text Domain:     postpage-edit-restriction-days
  * Domain Path:     /languages
- * Version:         1.1
+ * Version:         1.2
  * License: GPLv3 or later
  * License URI: https://www.gnu.org/licenses/gpl-3.0.html
  * @package         Days_Restriction
