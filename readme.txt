@@ -3,7 +3,7 @@ Contributors: josefnamin
 Tags: post, page, edit restriction, post edit restriction, page edit restriction
 Requires at least: 6.1
 Tested up to: 6.8
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Requires PHP: 7.4
@@ -48,6 +48,10 @@ For assistance, email us at: [itadminjn@jobbid.org].
 
 == Changelog ==
 
+= 1.2 =
+* Updated default restriction period from 3 minutes to 3 days for improved usability.
+* Minor code optimizations for performance.
+
 = 1.1 =
 * Updated default restriction period from 3 minutes to 3 days for improved usability.
 * Minor code optimizations for performance.
@@ -66,4 +70,5 @@ For assistance, email us at: [itadminjn@jobbid.org].
 * Default restriction period updated. Existing settings remain unchanged.
 
 == Translations ==
+
 We welcome volunteers to translate this plugin. Visit the [WordPress Translate Project](https://translate.wordpress.org/projects/wp-plugins/postpage-edit-restriction-days/) to contribute.
